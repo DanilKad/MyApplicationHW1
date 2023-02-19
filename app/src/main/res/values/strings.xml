@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">My ApplicationGit</string>
+    <string name="key_1">1</string>
+    <string name="key_2">2</string>
+    <string name="key_3">3</string>
+    <string name="key_4">4</string>
+    <string name="key_5">5</string>
+    <string name="key_6">6</string>
+    <string name="key_7">7</string>
+    <string name="key_8">8</string>
+    <string name="key_9">9</string>
+    <string name="key_0">0</string>
+    <string name="key_dot">.</string>
+    <string name="header">Some very longheadergoes and i`m happy</string>
+    <string name="description">"Yourself girl age unaffected.   Show strongly decay rest money given husband otherwise. Acuteness wife advice offer brother agreeable insipidity weather ladies cheerful literature another entreaties age. To come amiable alone ye cheered began ought indulgence place gentleman heard believe. Produce stronger end state cold curiosity deficient set two amounted. Contented ladyship parish humoured few.   Compact vexed zealously shew lose being such written september. Decay winding decisively forth. Alone explain views witty high secure learning blushes colonel around myself. Sir cold wholly water her never everything going excited mention extent cheerful staying end adieus walls. ﻿no highest furnished increasing give certainty window draw hold esteems civil widen everything. "</string>
+    <string name="division">/</string>
+    <string name="clear">C</string>
+    <string name="multplication">x</string>
+    <string name="negative">-</string>
+    <string name="plus">+</string>
+    <string name="equal">=</string>
 </resources>
